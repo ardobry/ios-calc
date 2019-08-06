@@ -1,6 +1,6 @@
 # iOS Calculator
 
-##  Made with React-Native. Perfectly compatible with both android and iOS
+##  Made with React-Native & TypeScript. Perfectly compatible with both android and iOS
 
 **Installation instructions:**
 1. **Download xCode/Android Studio for iOS/Android**
